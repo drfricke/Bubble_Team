@@ -2,7 +2,7 @@
 #*****************************************
 # YOUR NAME: David Fricke
 # NUMBER OF HOURS TO COMPLETE:  5 hours
-# YOUR COLLABORATION STATEMENT(s): I worked with 
+# YOUR COLLABORATION STATEMENT(s): I worked with Nicolas Ragusa and Patrick Wright.
 # microbit SOP - Flash, REPL, Reset (button near jack on the mircobit.
 # Remember to be in microbit mode
 
